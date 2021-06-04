@@ -1,0 +1,21 @@
+.btn-success:hover{
+background-color: turquoise;
+}
+canvas{
+animation-name:Siddhanth;
+animation-duration:4s;
+animation-iteration-count: infinite;
+margin-top:50px;
+}
+@keyframes Siddhanth {
+   from{box-shadow: 1px 1px 35px red;} 
+   to{box-shadow: 1px 1px 35px purple;} 
+}
+body{
+background-position: center;
+background-size: cover;
+
+}
+.btn{
+font-size: 20px;
+}
